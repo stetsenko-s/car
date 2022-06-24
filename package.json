@@ -1,0 +1,17 @@
+{
+  "name": "new_rapid",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.7.0",
+    "mongoose": "^6.3.8"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
